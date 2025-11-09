@@ -12,7 +12,7 @@
 3. Run the password checker (needs Python 3):
 
 ## Author
-Your Name — explain this is a student mini-project for class.
+ Karabo Edson: this is a student mini-project for class.
 # Security Awareness — Quick Guide
 
 ## 1. Password hygiene
